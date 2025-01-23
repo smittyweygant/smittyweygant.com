@@ -1,7 +1,7 @@
 ---
 title: 'Why'
 date: 2025-01-18T14:11:00+07:00
-draft: true
+draft: false
 description: 'Background of why I have decided to chronicle my personal journey(s) in 2022-2024'
 featured_image: '/images/smitty-jackson-center-mothership.jpeg'
 ---
