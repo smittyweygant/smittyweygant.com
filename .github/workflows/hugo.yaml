@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-# Updated 2025-01-23 SmittyW
+# Updated 2025-01-23 SmittyW. Revised to custom domain 'smittyweygant.com'
 name: Deploy Hugo site to Pages
 
 on:
