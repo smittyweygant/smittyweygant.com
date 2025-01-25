@@ -7,7 +7,7 @@ featured_image: '/images/smitty-jackson-center-mothership.jpeg'
 ---
 ## Introduction
 
-Hi, I am Smitty, and this is my blog. I decided to start writing to chronicle several aspects of my life that, to put it mildly, have been in transition. I've thought about writing for a long time, and am excited to reflect on my thoughts and experiences. In beginning this process, I realize that there are so many parts of my life that I want to share, so the challenge has been to get started. So here I am. 
+Hi, I am Smitty, and this is my blog. I decided to start writing to chronicle several aspects of my life that, to put it mildly, have been in transition. I've thought about writing for a long time, and am excited to reflect on my thoughts and experiences. There are so many parts of my life that I want to share, and the challenge has been to simply get started. So here I am. 
 
 Three years ago, my wife and I were each enjoying success and fulfillment with new jobs. My stepdaughter and son-in-law were anticipating their first child, and we were excited about becoming grandparents. It was a time when I felt we were making our individual and shared dreams a reality. In a matter of weeks in July & August 2022, my marriage began to unravel. I lost my partner and the trust, respect, and bond I had treasured for 24 years. My family as I knew it was shattered, leaving me adrift for the next 15 months. 
 
@@ -25,4 +25,4 @@ Spending time with people was the most enriching and important part of the trip.
 
 I learned to take off my mask and be vulnerable, be authentic, be me. I openly shared and traded experiences, feelings, hopes, and dreams with anyone who would talk and listen. I felt love, joy and connection everywhere. A profound sense of gratitude grew in me, which is overflowing at this moment. 
 
-From here, I intend to chronicle my travels and personal discovery from 2024. There's a lot to share, so I'd best get to it. 
+From here, I intend to chronicle my travels and personal discovery from 2024.There's a lot to share, so I'd best get to it. 
