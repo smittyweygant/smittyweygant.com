@@ -8,11 +8,17 @@ defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
+[frontmatter]
+  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  expiryDate = ['expirydate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
 [services.googleAnalytics]
 id = ''
 
 [pagination]
-# pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+pagerSize = 8 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [languages.en]
 # contentDir = "content/en"
@@ -38,7 +44,7 @@ background_color_class = "bg-black"
 featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
-recent_posts_number = 3
+recent_posts_number = 5
 
 [params.ananke.social.share]
 networks = [
@@ -48,9 +54,12 @@ networks = [
 
 [params.ananke.social.follow]
 networks = [
-  "facebook",
-  "linkedin"
+  "linkedin",
+  "facebook"
 ]
+
+[[params.ananke.social.github]]
+username = "smittyweygant"
 
 [params.ananke.social.facebook]
 username = "smittoid"

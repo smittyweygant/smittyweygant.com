@@ -11,7 +11,7 @@ menu:
 Field Services Leader, Solutions Architect, Software Development Consultant 
 
 ### Experience
-``Temporal Technologies``
+`Temporal Technologies`
 
 Director of Solutions Architecture for a Stage B start-up that delivers 'Durable Execution' of distributed systems applications and code. Started as Solutions Architect #1, built an organization of 16 SA's, promoted 2 into management. 
 

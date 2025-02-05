@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog &amp; web site on Smitty Weygant</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in My blog &amp; web site on Smitty Weygant</description>
+    <title>Tool Chain on Smitty Weygant</title>
+    <link>http://localhost:1313/toolchain/</link>
+    <description>Recent content in Tool Chain on Smitty Weygant</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 04 Feb 2025 14:11:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/toolchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guides</title>
       <link>http://localhost:1313/toolchain/guides/</link>
@@ -56,20 +56,6 @@
       <pubDate>Tue, 04 Feb 2025 10:00:00 +0700</pubDate>
       <guid>http://localhost:1313/toolchain/terminal/</guid>
       <description>&lt;p&gt;Setup iTerm2 and configure zsh&lt;/p&gt;&#xA;&lt;h2 id=&#34;iterm2&#34;&gt;iTerm2&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Make iterm2 the default terminal application&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Why</title>
-      <link>http://localhost:1313/posts/introduction/</link>
-      <pubDate>Sat, 18 Jan 2025 14:11:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I’m Smitty, and welcome to my blog. I decided to start writing to chronicle several aspects of my life that, to put it mildly, have been in transition. I&amp;rsquo;ve thought about writing for a long time and am excited to finally reflect on my thoughts and experiences. There are so many parts of my life I want to share, and the challenge has simply been getting started. So here I am.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h3 id=&#34;background-and-roles&#34;&gt;Background and Roles&lt;/h3&gt;&#xA;&lt;p&gt;Field Services Leader, Solutions Architect, Software Development Consultant&lt;/p&gt;&#xA;&lt;h3 id=&#34;experience&#34;&gt;Experience&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;Temporal Technologies&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Director of Solutions Architecture for a Stage B start-up that delivers &amp;lsquo;Durable Execution&amp;rsquo; of distributed systems applications and code. Started as Solutions Architect #1, built an organization of 16 SA&amp;rsquo;s, promoted 2 into management.&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;Amazon Web Services (AWS)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Manager, Solutions Architecture for West Region Small &amp;amp; Medium Business (SMB) practice. Managed and expanded a diverse team of Solutions Architects (SA&amp;rsquo;s) working with mid-market customers&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
