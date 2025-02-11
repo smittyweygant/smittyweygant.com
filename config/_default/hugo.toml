@@ -1,7 +1,7 @@
 baseURL = 'https://smittyweygant.com/'
 languageCode = 'en-us'
 title = 'Smitty Weygant'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 featured_image = '/images/smitty-jackson-center-mothership.jpeg'
 
 defaultContentLanguage = "en"
