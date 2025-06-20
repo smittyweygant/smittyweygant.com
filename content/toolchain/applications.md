@@ -71,52 +71,57 @@ Below are the applications I currently have installed for development & testing.
 
 ### Brew installation - GUI apps
 
-    brew install --cask \  
-    google-chrome  \  
-    firefox \  
-    brave-browser \  
-    tor \  
-    iterm2 \  
-    visual-studio-code \  
-    docker \  
-    slack \  
-    discord \  
-    signal \  
-    vlc \   
-    zoom \    
-    obs \  
-    keycastr \  
-    shotcut
+``` bash {.line-numbers}
+brew install --cask \  
+google-chrome  \  
+firefox \  
+brave-browser \  
+tor \  
+iterm2 \  
+visual-studio-code \  
+docker \  
+slack \  
+discord \  
+signal \  
+vlc \   
+zoom \    
+obs \  
+keycastr \  
+shotcut
+```
 
 ### Brew installation - Command line apps
 
-    brew install \  
-    wget \  
-    exa \  
-    git \  
-    nvm \  
-    yarn \  
-    pnpm \    
-    pyenv \
-    golang \
-    hugo \
-    node \
-    nvm \
-    temporal \
-    spark \
+``` bash {.line-numbers}
+brew install \  
+wget \  
+exa \  
+git \  
+nvm \  
+yarn \  
+pnpm \    
+pyenv \
+golang \
+hugo \
+node \
+nvm \
+temporal \
+spark \
+```
 
 ### Other interesting apps:
 
-    raycast \  
-    bitwarden \  
-    rectangle \    
-    calibre \  
-    figma \  
-    imageoptim \  
-    maccy \  
-    protonvpn \   
-    sequel-ace \  
-    ngrok \  
-    obs \  
-    shotcut
-
+``` bash {.line-numbers}
+raycast \  
+bitwarden \  
+rectangle \    
+calibre \  
+figma \  
+imageoptim \  
+maccy \  
+protonvpn \   
+sequel-ace \  
+ngrok \  
+obs \  
+shotcut
+```

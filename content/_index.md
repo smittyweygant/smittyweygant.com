@@ -1,5 +1,5 @@
 ---
-title: 'My blog & web site'
+title: ' '
 description: 'A collection of personal and professional writing & resources'
 cascade:
   featured_image: '/images/smitty-jackson-center-mothership.jpeg'
