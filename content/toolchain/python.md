@@ -65,3 +65,8 @@ I have a few projects where I've used ```pyenv```
 ```
 
 
+Anaconda
+```
+    curl -O https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.sh
+```
+
